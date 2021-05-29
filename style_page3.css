@@ -1,0 +1,59 @@
+body {
+  overflow-x: hidden;
+  background: #343a40; 
+}
+
+#mainNav .nav-link{
+  color: white;
+}
+
+#mainNav .navbar-brand{
+  color: crimson;
+  font-size: 1.5em;
+}
+
+#mainNav .nav-link:hover{
+  color: #ea1c2c;
+}
+
+.jumbotron{
+  font-weight: bold;
+  color: white;
+  background-image: url(https://w.wallhaven.cc/full/13/wallhaven-13xq5g.jpg);
+  background-size: 100% 300%;
+}
+
+.display-4{
+  font-weight: 600;
+}
+.nav-item > a {
+  text-decoration: none;
+}
+.nav-item > a :focus {
+  color: black;
+}
+
+.card-deck{
+  margin: 30px;
+}
+
+a{
+  color: white;
+}
+.card img {
+  height: 450px;
+  width: auto;
+  overflow: hidden;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+.rate {
+  clear: both;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.rate h3 {
+  display: inline;
+  color: rgb(19, 176, 19);
+}

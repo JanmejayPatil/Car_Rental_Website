@@ -1,0 +1,51 @@
+body{
+	font-family: "Helvetica";
+	background-image: url("page2bg.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 170%; 
+}
+
+#mainNav .navbar-brand{
+	color: crimson;
+	font-size: 1.5em;
+}
+
+#mainNav .nav-link{
+	color: black;
+}
+
+#mainNav .nav-link:hover{
+	color: #ea1c2c;
+}
+.form-check{
+	border: 1px solid red; 
+	background: pink;
+	width: 25%;
+}
+
+#gridCheck{
+	position: relative;
+	size: 200%;
+	padding: 20px; 
+}
+
+#bgm{
+	background: pink;
+	width: 25%;
+}
+
+hr{
+	height: 12px;
+	color: black;
+}
+
+form{
+	line-height: 1.5em;
+	font-size: 20px;
+	margin-top: 5%;
+	margin-left: 15%;
+	padding: 25px;
+	border: 10px solid black;
+	width: 68%;
+}
+
